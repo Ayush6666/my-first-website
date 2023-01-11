@@ -1,0 +1,23 @@
+body{
+	background-image:url(wlpg.jpeg);
+background-position:center;
+background-size:cover;
+background-repeat:no-repeat;
+font-family:ariel;
+}
+.hdr1{
+	text-align:center;
+	border-radius:88px;
+	background-color:black;
+}
+.abt{
+	text-align:center;
+	border-radius:88px;
+	background-color:black;
+
+}
+.act{
+	text-align:center;
+	border-radius:88px;
+	background-color:black;
+}
